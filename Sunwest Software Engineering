@@ -1,0 +1,18 @@
+//Take a string Input and create a 2-d matrix output
+//"5.0,100,5.5,120,6.0,130,L10,5.0,110,5.5,124,6.0,134,L20"
+
+//what are the outputs:
+int *p = 10;
+printf("%d",p);
+printf("%d",&p);
+printf("%d",*p);
+
+int *p = malloc(sizeof(int));
+int x = *p;
+printf("%d",x);
+int p = 1000;
+int **y = *p
+printf("%d",*y);
+
+//
+
